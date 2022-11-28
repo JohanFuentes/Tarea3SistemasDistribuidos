@@ -1,0 +1,87 @@
+9.txt
+K, or k, is the eleventh letter in the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is kay (pronounced ), plural kays. The letter K usually represents the voiceless velar plosive.
+
+
+== History ==
+The letter K comes from the Greek letter Κ (kappa), which was taken from the Semitic kaph, the symbol for an open hand. This, in turn, was likely adapted by Semitic tribes who had lived in Egypt from the hieroglyph for "hand" representing /ḏ/ in the Egyptian word for hand, ⟨ḏ-r-t⟩ (likely pronounced /ˈcʼaːɾat/ in Old Egyptian). The Semites evidently assigned it the sound value /k/ instead, because their word for hand started with that sound.K was brought into the Latin alphabet with the name ka /kaː/ to differentiate it from C, named ce (pronounced /keː/) and Q, named qu and pronounced /kuː/. In the earliest Latin inscriptions, the letters C, K and Q were all used to represent the sounds /k/ and /ɡ/ (which were not differentiated in writing). Of these, Q was used before a rounded vowel (e.g. ⟨EQO⟩ 'ego'), K before /a/ (e.g. ⟨KALENDIS⟩ 'calendis'), and C elsewhere. Later, the use of C and its variant G replaced most usages of K and Q. K survived only in a few fossilized forms such as Kalendae, "the calends".After Greek words were taken into Latin, the Kappa was transliterated as a C. Loanwords from other alphabets with the sound /k/ were also transliterated with C. Hence, the Romance languages generally use C, in imitating Classical Latin's practice, and have K only in later loanwords from other language groups. The Celtic languages also tended to use C instead of K, and this influence carried over into Old English.
+
+
+== Pronunciation and use ==
+
+
+=== English ===
+English is now the only Germanic language to productively use "hard" ⟨c⟩ (outside the digraph ⟨ck⟩) rather than ⟨k⟩ (although Dutch uses it in loan words of Latin origin, and the pronunciation of these words follows the same hard/soft distinction as in English).The letter ⟨k⟩ is silent at the start of an English word when it comes before the letter ⟨n⟩, as in the words "knight," "knife," "knot," "know," and "knee".
+Like J, X, Q, and Z, the letter K is not used very frequently in English. It is the fifth least frequently used letter in the English language, with a frequency in words of about 0.8%.
+
+
+=== Number ===
+In the International System of Units (SI), the SI prefix for one thousand is kilo-, officially abbreviated as k: for example, prefixed to metre/meter or its abbreviation m, kilometre or km signifies a thousand metres. As such, people occasionally represent numbers in a non-standard notation by replacing the last three zeros of the general numeral with K, as in 30K for 30,000.
+
+
+=== Other languages ===
+In most languages where it is employed, this letter represents the sound /k/ (with or without aspiration) or some similar sound.
+
+
+=== Other systems ===
+The International Phonetic Alphabet uses ⟨k⟩ for the voiceless velar plosive.
+
+
+== Related characters ==
+
+
+=== Ancestors, descendants and siblings ===
+𐤊 : Semitic letter Kaph, from which the following symbols originally derive
+Κ κ/ϰ : Greek letter Kappa, from which K derives
+К к : Cyrillic letter Ka, also derived from Kappa
+K with diacritics: Ƙ ƙ, Ꝁ ꝁ, Ḱ ḱ, Ǩ ǩ, Ḳ ḳ, Ķ ķ, ᶄ, Ⱪ ⱪ, Ḵ ḵ
+Ꞣ and ꞣ were used in Latvian orthography before 1921
+The Uralic Phonetic Alphabet uses various forms of the letter K:U+1D0B ᴋ LATIN LETTER SMALL CAPITAL K
+U+1D37 ᴷ MODIFIER LETTER CAPITAL K
+U+1D4F ᵏ MODIFIER LETTER SMALL K
+ₖ : Subscript small k was used in the Uralic Phonetic Alphabet prior to its formal standardization in 1902
+Ʞ ʞ : Turned capital and small k were used in transcriptions of the Dakota language in publications of the American Board of Ethnology in the late 19th century. Turned small k was also used for a velar click in the International Phonetic Alphabet but its use was withdrawn in 1970.
+𝼐 : Small capital turned k is used as a click letter
+𝼃 : Small letter reversed k is used as a Voice Quality Symbol (VoQS)
+
+
+=== Ligatures and abbreviations ===
+₭ : Lao kip
+Ꝃ ꝃ, Ꝅ ꝅ, Ꞣ ꞣ : Various forms of K were used for medieval scribal abbreviations
+
+
+== Computing codes ==
+1 Also for encodings based on ASCII, including the DOS, Windows, ISO-8859 and Macintosh families of encodings.
+
+
+== Other representation ==
+
+
+== Other usage ==
+"K" replacing "C" in satiric misspelling.
+K is the unit symbol for the kelvin, used to measure thermodynamic temperature (note: degree sign is not used with kelvin scale).
+K is the chemical symbol for element potassium (from its Latin name kalium).
+Triangle K.
+Unit prefix k, meaning 1000 times.
+Josef K is the name of the principal character in Franz Kafka's novel The Trial.
+In chess notation, the letter K represents the King (WK for White King, BK for Black King).
+In baseball scoring, the letter K is used to represent a strikeout.  A forwards oriented K represents a "strikeout swinging"; a backwards oriented K () represents a "strikeout looking".
+As abbreviation for OK, often used in emails and short text messages.
+K is used as a slang term for Ketamine among recreational drug users.
+In the CMYK color model, K represents black ink.
+In International Morse code it is used to mean "over".
+In fracture mechanics, K is used to represent the stress intensity factor.
+In physics, k usually stands for Boltzmann's constant
+K (logic).
+K is used colloquially to mean kilometre (as in "a 10K run").
+K is used to indicate thousands, especially when expressing amounts of money, e.g. $20K = twenty thousand dollars.
+In the United Kingdom under the old system (before 2001), a licence plate that begins with "K" for example "K123 XYZ" would correspond to a vehicle registered between August 1, 1992, and July 31, 1993. Again under the old system, a licence plate that ends with "K" for example "ABC 123K" would correspond to a vehicle that was registered between August 1, 1971, and July 31, 1972.
+On Idaho license plates, an initial K in the plate number indicates it was issued in Kootenai County.
+
+
+== References ==
+
+
+== External links ==
+ Media related to K at Wikimedia Commons
+ The dictionary definition of K at Wiktionary
+ The dictionary definition of k at Wiktionary
