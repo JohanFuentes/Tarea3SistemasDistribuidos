@@ -4,7 +4,7 @@ Sistema desarrollado en Python, el cual nos permite hacer uso de MapReduce, para
 
 ### Enlace del vídeo del funcionamiento del Sistema
 
-[![video](images/vimeo.png)](https://player.vimeo.com/video/765446652?h=408acc6a86&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
+[![video](images/vimeo.png)](https://drive.google.com/drive/folders/1k1-mOcfUquEl07Kfh8Sfny5Hu8ATFeLR?usp=sharing)
 
 ## Comandos útiles
 
